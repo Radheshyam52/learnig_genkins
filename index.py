@@ -8,4 +8,4 @@ print("Hello, World!")
 now = datetime.now()
 
 # Print the current date and time
-prin("Current date and time:", now.strftime("%Y-%m-%d %H:%M:%S"))
+print("Current date and time:", now.strftime("%Y-%m-%d %H:%M:%S"))
